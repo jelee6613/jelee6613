@@ -1,4 +1,8 @@
-### Hi there 👋
+### LEE JONG EUN 👋
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-4E4E4E?style=flat)](https://algo-liashi.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jelee6613@gmail.com)
 
-![jelee6613 github stats](https://github-readme-stats.vercel.app/api?username=jelee6613&show_icons=true)
-[![jelee6613 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jelee6613&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jelee6613)
+![jelee6613 GitHub stats](https://github-readme-stats.vercel.app/api?username=jelee6613&theme=blue-green&show_icons=true)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=jelee6613)](https://solved.ac/jelee6613/)
